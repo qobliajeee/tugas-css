@@ -1,0 +1,90 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.jp{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 32px;
+    line-height: 40px;
+}
+.jp:hover{
+    background-color: #ffa500;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+}
+.Home{
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+}
+.pd1:hover{
+    background-color: darkgoldenrod;
+    color: white;
+}
+.c1:hover{
+    background-color: darkmagenta;
+    color: white;
+}
+.stat{
+    font-family: none;
+}
+.bg{
+    background-image: url(jpbau.jpeg);
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    font-size: 64px;
+    text-decoration: underline;
+    text-align: center;
+    font-variant: small-caps;
+    line-height: 500px;
+}
+h1:hover{
+    color: white;
+    background-color: #ffa500;
+    font-variant: small-caps;
+    text-decoration: underline;
+}
+.ak{
+    color: crimson;
+    line-height: 40px;
+}
+.ak:hover{
+    background-color: crimson;
+    color: rgb(1, 68, 252);
+    line-height: 40px;
+}
+.gt{
+    color: rgb(107, 20, 220);
+    line-height: 40px;
+}
+.gt:hover{
+    background-color: rgb(150, 248, 255);
+    color: rgb(252, 1, 1);
+    line-height: 40px;
+}
+.pd{
+    color: rgb(51, 255, 0);
+    line-height: 40px;
+}
+.pd:hover{
+    background-color: rgb(155, 255, 146);
+    color: rgb(48, 0, 54);
+    line-height: 40px;
+}
+.cr{
+    font-weight: bold;
+    line-height: 24px;
+    text-align: center;
+}
+.cr:hover{
+text-align: center;
+background-color: gold;
+color: white;
+font-weight: bold;
+line-height: 24px;
+}
